@@ -1,3 +1,11 @@
+# 게시판 프로젝트
+
+게시글에 대한 목록 조회, 상세 조회, 수정, 삭제 (CRUD) 기능을 갖추고 있으며,
+각각의 기능에 대한 API가 있어 개별적인 Request에 대한 개별적인 Response를 반환한다.
+
+- 게시글: 제목, 작성자명, 비밀번호, 작성 내용, 작성일
+
+
 ## ERD
 
 ![image](https://github.com/k-jaehyun/Board/assets/70873780/6c8c4cd1-4a43-452b-b549-da0d4db44970)
