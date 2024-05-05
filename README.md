@@ -5,6 +5,9 @@
 
 - 게시글: 제목, 작성자명, 비밀번호, 작성 내용, 작성일
 
+## 기술 스택
+
+#Java #SpringBoot #JPA #MySQL
 
 ## ERD
 
